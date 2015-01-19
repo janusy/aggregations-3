@@ -54,7 +54,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Gałka, Łukasz
 1. Grycko, Marcin
 1. [Horoszko, Marcin](https://github.com/cinkonaap/nosql/blob/master/zad3/rozwiazanie.md)
-1. Janowski, Arkadiusz
+1. [Janowski, Arkadiusz](https://bitbucket.org/arekjanos/nosqlegz)
 1. [Józwiak, Roman](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise3.md)
 1. Kamiński, Jakub
 1. [Karolczak, Jakub](https://github.com/Taureli/MongoDB-MapReduce) // cała Wikipedia?
